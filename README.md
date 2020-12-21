@@ -1,2 +1,2 @@
 # Simplon_DataAnalyses 
-Simple projects to exercise the manipulation of data frames 
+Simple projects to exercise the manipulation of data frames. 
